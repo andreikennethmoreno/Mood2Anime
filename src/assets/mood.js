@@ -16,7 +16,7 @@ const moods = {
     "🤯 inspirational": "Award Winning",
     "🤤 Hungry": "Gourmet",
     "😨 Hopeless" : "Isekai",
-    "🥲 Fear of Missing Out " : "Highrated Anime this year",
+    "🥲 Fear-of-Missing-Out " : "Highrated Anime this year",
  };
 
 export default moods;
