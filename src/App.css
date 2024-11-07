@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&family=Space+Grotesk:wght@300..700&display=swap');
+
+#root {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+}
+
+.center-container {
+  @apply mx-auto lg:w-2/4 md:w-3/4  w-[95%]
+}
+
+.mood-center-container {
+  @apply lg:w-3/5 md:w-3/4 w-[95%]
+}
